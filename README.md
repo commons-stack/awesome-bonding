@@ -1,6 +1,6 @@
 # Awesome Bonding :sunglasses:
 
-A curated list of token bonding curve code and resources.
+A list of token bonding curve code and resources, initiated and curated mostly by the talented [Benjamin Scholtz](https://github.com/BenSchZA).
 
 If you want to find out more about decentralized financial systems, see this other awesome list: https://github.com/ong/awesome-decentralized-finance
 
@@ -10,6 +10,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Live Deployments
 
+* **Aragon Fundraiser App:** See below for many links
 * **Katana Pools:** https://katanapools.com/pool/create 
     - Github: https://github.com/pRoy24/Katanapools
 * **Molecule Catalyst:** https://app.catalyst.molecule.to/ 
