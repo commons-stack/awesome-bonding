@@ -8,12 +8,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## The List
 
-## Live Deployments
+### Live Deployments
 
 * **Katana Pools:** https://katanapools.com/pool/create https://github.com/pRoy24/Katanapools
 * **Molecule Catalyst:** https://app.catalyst.molecule.to/ https://gitlab.com/linumlabs/molecule-alpha
-
-
 
 ### Simulations
 * **Augmented TBC simulation:** https://commons-stack.github.io/augmented-tbc-design/
